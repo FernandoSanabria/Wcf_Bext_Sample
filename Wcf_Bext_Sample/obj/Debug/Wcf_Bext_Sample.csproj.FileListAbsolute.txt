@@ -1,0 +1,12 @@
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\Wcf_Bext_Sample.dll.config
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\Wcf_Bext_Sample.dll
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\Wcf_Bext_Sample.pdb
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\EntityFramework.dll
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\EntityFramework.SqlServer.dll
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\EntityFramework.xml
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\bin\EntityFramework.SqlServer.xml
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\obj\Debug\Wcf_Bext_Sample.csprojAssemblyReference.cache
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\obj\Debug\Wcf_Bext_Sample.csproj.CoreCompileInputs.cache
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\obj\Debug\Wcf_Bext_Sample.csproj.CopyComplete
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\obj\Debug\Wcf_Bext_Sample.dll
+C:\Users\Akasha\source\repos\Wcf_Bext_Sample\Wcf_Bext_Sample\obj\Debug\Wcf_Bext_Sample.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf_Bext_Sample", "Wcf_Bext_Sample\Wcf_Bext_Sample.csproj", "{10FC7601-74E5-4F2F-BFFE-08190B734C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10FC7601-74E5-4F2F-BFFE-08190B734C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FC7601-74E5-4F2F-BFFE-08190B734C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FC7601-74E5-4F2F-BFFE-08190B734C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FC7601-74E5-4F2F-BFFE-08190B734C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E6CFC7-A5DD-4AD5-ABCD-272F8B632978}
+	EndGlobalSection
+EndGlobal
